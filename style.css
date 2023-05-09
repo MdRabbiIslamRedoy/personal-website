@@ -29,7 +29,7 @@ body{
 .white-highlight{
     color: white;
 }
-#middle{
+.middle{
     text-align: center;
 }
 
@@ -39,6 +39,20 @@ body{
     height: auto; 
     margin-left: 4%;
     padding-left: 2%;
+  }
+  .baby{
+    background-color: tomato;
+    margin: 50px 500px;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  footer{
+    text-align: center;
+    color: white;
+  }
+.finish{
+    margin: 50px;
+    padding: 5px;
   }
   
   
