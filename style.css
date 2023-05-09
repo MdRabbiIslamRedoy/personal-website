@@ -32,9 +32,15 @@ body{
 #middle{
     text-align: center;
 }
-.colum{
+
+.colum img {
     float: left;
-    border: 1px solid;
-    width: 10%;
-    
-}
+    width: 25%; 
+    height: auto; 
+    margin-left: 4%;
+    padding-left: 2%;
+  }
+  
+  
+
+  
